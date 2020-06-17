@@ -1,0 +1,9 @@
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\bin\Release\netstandard2.0\MarsRover.Common.deps.json
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\bin\Release\netstandard2.0\MarsRover.Common.dll
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\bin\Release\netstandard2.0\MarsRover.Common.pdb
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.csprojAssemblyReference.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.csproj.CoreCompileInputs.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.AssemblyInfoInputs.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.AssemblyInfo.cs
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.dll
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\ClassLibrary1\obj\Release\netstandard2.0\MarsRover.Common.pdb

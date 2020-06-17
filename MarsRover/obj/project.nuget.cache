@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PuXeVdBcJpvGKqnGEj4YzfA8XShtRGNz19csSlTNqbYODOikgY5CjQvbySkFXpqCf5OhyyOq60ddlbs70CeC9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sili\\Desktop\\PROJECTS\\HEPSIBURADA\\MarsRover\\MarsRover\\MarsRover.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sili\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\sili\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kv2BwjY32kbONVSCYCyNJlPAXOddUH/BhEoC1M8VQHlhFhSTYRDsHXlXaDK4oiw+sPVXR64U278alJohsY567g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sili\\Desktop\\PROJECTS\\HEPSIBURADA\\MarsRover\\MarsRover.Interfaces\\MarsRover.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sili\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sili\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

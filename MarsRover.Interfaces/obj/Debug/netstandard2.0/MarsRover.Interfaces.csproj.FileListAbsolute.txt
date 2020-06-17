@@ -1,0 +1,9 @@
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\bin\Debug\netstandard2.0\MarsRover.Interfaces.deps.json
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\bin\Debug\netstandard2.0\MarsRover.Interfaces.dll
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\bin\Debug\netstandard2.0\MarsRover.Interfaces.pdb
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.csprojAssemblyReference.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.AssemblyInfoInputs.cache
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.AssemblyInfo.cs
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.dll
+C:\Users\sili\Desktop\PROJECTS\HEPSIBURADA\MarsRover\MarsRover.Interfaces\obj\Debug\netstandard2.0\MarsRover.Interfaces.pdb
